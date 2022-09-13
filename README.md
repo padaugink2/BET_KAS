@@ -1,2 +1,2 @@
 # BET_KAS
-Just an exaple
+Just a little exaple
